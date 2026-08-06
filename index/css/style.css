@@ -2957,7 +2957,7 @@ input[type=checkbox] {
   }
 }
 
-@media (min-width: 901px) and (max-width: 1199px) {
+@media (min-width: 820px) and (max-width: 1199px) {
   .banner {
     min-height: 650px;
   }
@@ -2998,7 +2998,7 @@ input[type=checkbox] {
   }
 
   .banner-gift-values {
-    gap: 18px;
+    gap: 47px;
   }
 
   .banner-gift-amount,
@@ -3047,7 +3047,7 @@ input[type=checkbox] {
 }
 
 
-@media (min-width: 768px) and (max-width: 900px) {
+@media (min-width: 768px) and (max-width: 820px) {
   .banner {
     min-height: 500px;
   }
@@ -3092,7 +3092,7 @@ input[type=checkbox] {
   }
 
   .banner-gift-values {
-    gap: 8px;
+    gap: 42px;
   }
 
   .banner-gift-amount,
